@@ -1,0 +1,34 @@
+Id CommandLine                                                                                 
+  -- -----------                                                                                 
+   1 try { . "c:\Users\shree\AppData\Local\Programs\Microsoft VS Code\cfbea10c5f\resources\app...
+   2 cd .\GITHUB\                                                                                
+   3 python .\testing.py                                                                         
+   4 ls                                                                                          
+   5 ls -l                                                                                       
+   6 rm                                                                                          
+   7 rm .\testing.py                                                                             
+   8 ls                                                                                          
+   9 git init                                                                                    
+  10 dir -a                                                                                      
+  11 dir                                                                                         
+  12 ls                                                                                          
+  13 cls                                                                                         
+  14 git status                                                                                  
+  15 git status                                                                                  
+  16 git status                                                                                  
+  17 git add .\testing.py                                                                        
+  18 git status                                                                                  
+  19 git rm --cashed .\testing.py                                                                
+  20 git status                                                                                  
+  21 git status                                                                                  
+  22 git rm .\testing.py                                                                         
+  23 git rm --cached .\testing.py                                                                
+  24 git status                                                                                  
+  25 git add .                                                                                   
+  26 git status                                                                                  
+  27 git commit -m "files addded"                                                                
+  28 git status                                                                                  
+  29 rm .\testing.py                                                                             
+  30 git status                                                                                  
+  31 git restore .\.git\COMMIT_EDITMSG                                                           
+  32 git restore testing.py  
